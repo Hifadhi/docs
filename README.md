@@ -1,12 +1,6 @@
-# Mintlify Starter Kit
+# Hifadhi Finance Documentation
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
-
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+Docs for Hifadhi Finance    
 
 ### Development
 
